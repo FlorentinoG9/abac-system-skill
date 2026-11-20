@@ -3,8 +3,8 @@ name: abac-system
 description: "Trigger: ABAC, attribute-based access control, permissions, policy engine, field-level permissions, database query permissions. Plan, implement, verify, and battle-test production-grade agnostic ABAC systems."
 license: Apache-2.0
 metadata:
-  author: "gentle-ai"
-  version: "1.1"
+  author: "FlorentinoG9"
+  version: "1.2"
 ---
 
 ## Activation Contract

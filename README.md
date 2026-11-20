@@ -2,6 +2,8 @@
 
 A skill for planning, implementing, verifying, and battle-testing production-grade, agnostic Attribute-Based Access Control (ABAC) systems.
 
+**Author:** [FlorentinoG9](https://github.com/FlorentinoG9)
+
 ## Contents
 
 - `SKILL.md` — skill activation contract, hard rules, decision gates, execution steps, and output contract
