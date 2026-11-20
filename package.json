@@ -1,0 +1,20 @@
+{
+  "name": "abac-system-skill",
+  "version": "1.2.0",
+  "private": true,
+  "description": "Skill for planning, implementing, verifying, and battle-testing production-grade agnostic ABAC systems",
+  "license": "Apache-2.0",
+  "author": "FlorentinoG9",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FlorentinoG9/abac-system-skill.git"
+  },
+  "scripts": {
+    "changeset": "changeset",
+    "version-packages": "changeset version",
+    "release:tag": "bash scripts/release-tag.sh"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.29.7"
+  }
+}
