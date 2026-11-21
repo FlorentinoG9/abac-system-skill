@@ -1,5 +1,7 @@
 # abac-system
 
+> **Canonical source:** [FlorentinoG9/skills](https://github.com/FlorentinoG9/skills) (`skills/abac-system/`)
+
 A skill for planning, implementing, verifying, and battle-testing production-grade, agnostic Attribute-Based Access Control (ABAC) systems.
 
 **Author:** [FlorentinoG9](https://github.com/FlorentinoG9)
@@ -11,7 +13,13 @@ A skill for planning, implementing, verifying, and battle-testing production-gra
 
 ## Install
 
-Clone or copy this directory into your skills path so that `SKILL.md` is at `<skills-dir>/abac-system/SKILL.md`.
+Preferred (from skills collection):
+
+```bash
+npx skills add FlorentinoG9/skills --skill abac-system
+```
+
+Or install this standalone repo directly:
 
 ### OpenCode (global)
 
