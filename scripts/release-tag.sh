@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-VERSION=$(node -p "require('./package.json').version")
+VERSION=$(bun -e "console.log(require('./package.json').version)")
 TAG="v${VERSION}"
 
 if git rev-parse "$TAG" >/dev/null 2>&1; then

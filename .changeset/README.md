@@ -7,7 +7,7 @@ This folder is used by [Changesets](https://github.com/changesets/changesets) to
 When you make a change that should be released, run:
 
 ```bash
-npx changeset
+bunx changeset
 ```
 
 Commit the generated markdown file in `.changeset/`.
